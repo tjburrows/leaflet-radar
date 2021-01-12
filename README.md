@@ -1,3 +1,5 @@
+#### This is a modified version of leaflet-radar that has  play/pause button instead of checkbox.  See it in action at [tjburrows.com/weather](https://tjburrows.com/weather).
+
 # leaflet-radar [demo](https://rwev.github.io/leaflet-radar)
 Animated satellite radar overlays for Leaflet, using free and public Web Map Services (WMS). 
 ![gif](leaflet-radar.gif)
